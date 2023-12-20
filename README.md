@@ -4,3 +4,6 @@ Notebook basado en notas tomadas en la clase de Análisis y visualización de da
 [Irving Morales](https://sigi.nucleares.unam.mx/sgiicn/people/user/view/id/75).
 La clase enseña a explorar la base de datos de la Encuesta sobre la Percepción Pública de la Ciencia y la Tecnología (ENPECYT) 2017.
 
+Creative Commons Attribution 4.0 International License
+
+CC BY 4.0
